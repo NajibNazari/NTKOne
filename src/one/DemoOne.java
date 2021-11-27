@@ -6,6 +6,6 @@ public class DemoOne {
 		
 		System.out.println("Demo");
 		
-		System.out.println("Random change....");
+		System.err.println("Randon changes..");
 	}
 }
