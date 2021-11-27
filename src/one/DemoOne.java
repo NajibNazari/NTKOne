@@ -9,7 +9,7 @@ public class DemoOne {
 		System.out.println("Random code..");
 		
 		System.out.println("see the changes...");
-		
+		// Java is the best.....
 	}
 	// Added Randon comment..
 	public static void add(int a, int b) {
