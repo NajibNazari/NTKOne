@@ -6,7 +6,9 @@ public class DemoOne {
 		
 		System.out.println("Demo");
 		
-		System.err.println("Randon changes..");
+		System.out.println("Random code..");
+		
+		System.out.println("see the changes...");
 		
 	}
 	// Added Randon comment..
