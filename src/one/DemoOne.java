@@ -8,8 +8,6 @@ public class DemoOne {
 		
 		System.err.println("Randon changes..");
 		
-		System.out.println("THIS LINE CODE IS COMING FROM GETHUB CHANGES....");
-		System.out.println("New changes to code....");
 	}
 	// Added Randon comment..
 	public static void add(int a, int b) {
