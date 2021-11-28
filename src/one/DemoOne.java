@@ -9,6 +9,7 @@ public class DemoOne {
 		System.out.println("Random code..");
 		
 		System.out.println("see the changes...");
+		
 		// Java is the best.....
 	}
 	// Added Randon comment..
@@ -16,5 +17,7 @@ public class DemoOne {
 		System.out.println(a+b);
 		
 		// Random coding..
+		
+		// Adding subNum method...
 	}
 }
