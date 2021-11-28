@@ -16,5 +16,7 @@ public class DemoOne {
 		System.out.println(a+b);
 		
 		// Random coding..
+	public static void subNum(int a, int b)	{
+		Syestem.out.println(a -b);
 	}
 }
