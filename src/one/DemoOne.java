@@ -15,9 +15,15 @@ public class DemoOne {
 	// Added Randon comment..
 	public static void add(int a, int b) {
 		System.out.println(a+b);
-		
+	}
 		// Random coding..
+
 		
 		// Adding subNum method...
+
+		// subNum method added
+	public static void subNum(int a, int b)	{
+		System.out.println(a-b);
+
 	}
 }
